@@ -1,49 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Thanvi%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+
 <div align="center">
 
-# Hi 👋, I'm Thanvi Reddy  
-### 💻 CSE Student | Full Stack Developer | AI & Computer Vision Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Full+Stack+Projects;Learning+AI+%26+Computer+Vision;Practicing+DSA+in+Java;Growing+Step+by+Step+for+Placements" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%7C+Python+%7C+SQL;React+%2B+Spring+Boot+Developer;AI+%26+Computer+Vision+Learner;Building+Real-World+Projects" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=thanvireddy8&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌟 About Me
-
-- 🎓 3rd Year CSE Student with CGPA **8.9**
-- 💻 Building full-stack applications using **React + Spring Boot**
-- 🤖 Interested in **AI, Deep Learning & Computer Vision**
-- ☁️ Learning **Cloud Computing and scalable systems**
-- 🔥 Solved **300+ problems on CodeChef**
-- 🎯 Currently improving **DSA, Java, and project building**
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 🚌 Resolve-It  
-**Smart Grievance Management System**
+## 👩‍💻 About Me
 
-- Public transport complaint management system  
-- User/Admin role-based dashboards  
-- Real-time complaint tracking  
-- Built using **React, Spring Boot, MySQL**
+- 🎓 3rd Year CSE Student  
+- 💻 Full Stack Developer using **React + Spring Boot**
+- 🤖 Interested in **AI, Deep Learning & Computer Vision**
+- ☁️ Learning **Cloud Computing**
+- 🔥 Solved **300+ coding problems**
+- 🎯 Preparing for campus placements
 
 </td>
-<td width="50%">
+<td width="45%" align="center">
 
-### 🌬️ Wind Turbine Damage Detection  
-**YOLOv8 Computer Vision Project**
-
-- Detects cracks and blade surface damage  
-- Trained on 1000+ images  
-- Achieved around **85–90% accuracy**  
-- Built using **Python, YOLOv8, OpenCV**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
 
 </td>
 </tr>
@@ -51,73 +36,83 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
 <div align="center">
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=java,python,sql" />
+<table>
+<tr>
+<td width="50%">
 
-### Web Development  
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,spring" />
+<h3>🚌 Resolve-It</h3>
 
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+**Smart Grievance Management System**
+
+✅ Public transport complaint system  
+✅ User/Admin dashboards  
+✅ Real-time complaint tracking  
+✅ Complaint status management  
+
+**Tech:** React, Spring Boot, MySQL, Postman
+
+</td>
+<td width="50%">
+
+<h3>🌬️ Wind Turbine Damage Detection</h3>
+
+**YOLOv8 Computer Vision Project**
+
+✅ Detects cracks and blade damage  
+✅ Trained on 1000+ images  
+✅ Around 85–90% accuracy  
+✅ Reduces manual inspection effort  
+
+**Tech:** Python, YOLOv8, OpenCV, PyTorch
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## 🧰 Tech Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,react,html,css,js,spring,git,github,postman,vscode" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br>Java · Python · SQL</td>
+<td align="center"><b>Frontend</b><br>React · HTML · CSS · JavaScript</td>
+<td align="center"><b>Backend</b><br>Spring Boot · REST APIs</td>
+</tr>
+<tr>
+<td align="center"><b>AI/ML</b><br>YOLOv8 · OpenCV · PyTorch</td>
+<td align="center"><b>Core</b><br>OOPS · DBMS · CN</td>
+<td align="center"><b>Tools</b><br>Git · Postman · VS Code</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Smart Coder Certification — Smart Interviews  
-- 🏅 Database Management System — NPTEL  
-- 🏅 Java Foundation & Cloud Computing — Infosys Springboard  
-- 🏅 Networking Basics — Cisco Networking Academy  
-- 🏅 AWS Academy Graduate — Cloud Foundations  
-
----
-
-## 🏆 Achievements & Activities
-
-- 💻 Solved **300+ problems on CodeChef**
-- 🚀 Participated in **Salesforce Hackathon**
-- 🤝 Volunteer — **Smart India Hackathon**
-- 📚 Actively preparing for campus placements
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanvireddy8&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanvireddy8&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanvireddy8&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-thanvireddy8-181717?style=for-the-badge&logo=github)](https://github.com/thanvireddy8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanvi%20Reddy-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-mallusrithanvi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallusrithanvi@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ “Building projects, learning daily, and growing one step closer to my dream career.” ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
-
-</div>
+```mermaid
+mindmap
+  root((Certifications))
+    Smart Coder
+      Smart Interviews
+    DBMS
+      NPTEL
+    Java & Cloud
+      Infosys Springboard
+    Networking Basics
+      Cisco
+    AWS Cloud Foundations
