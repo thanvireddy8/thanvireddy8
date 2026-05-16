@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:mallusrithanvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sri-thanvi-reddy-mallu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/thanvireddy8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -11,13 +11,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a 3rd-year Computer Science student at Vardhaman College of Engineering (CGPA: 8.9/10), building at the intersection of **full-stack development** and **AI/computer vision**.
+Final-year Computer Science student at Vardhaman College of Engineering (CGPA: 8.9/10), building at the intersection of **full-stack development** and **AI/computer vision**.
 
-- 🔭 Currently building: **LeafyAI** — a plant disease detection app using deep learning
+- 🔭 Currently building: **LeafyAI** — an AI-powered vegan nutrition and meal recommendation platform
 - 🏗️ Past: Built a grievance management system and a YOLOv8 blade damage detector during my Infosys internship
 - 🧠 Interests: Computer Vision, Deep Learning, REST APIs, Cloud
 - 💻 Solved **300+ problems** on CodeChef
-- 🎯 Open to: Internships, research collaborations, and freelance projects
+- 🔗 CodeChef: https://www.codechef.com/users/thanvi_reddy8
+- 🔗 LeetCode: https://leetcode.com/u/thanvi_reddy01/
+- 🎯 Open to internships, AI/ML opportunities, and software development roles.
 
 ---
 
@@ -25,9 +27,12 @@ I'm a 3rd-year Computer Science student at Vardhaman College of Engineering (CGP
 
 ### 🌬️ [Wind Turbine Blade Damage Detection](https://github.com/thanvireddy8/wind-turbine-blade-damage-detection)
 > AI-powered structural damage detection using YOLOv8 segmentation
-
-- Trained on **1,000+ images**, achieving **85–90% detection accuracy**
+> 
+🌐 Live Demo: https://wind-turbine-blade-damage-detection-rng7wmmkjnrjalvrdmdjvr.streamlit.app/
+> 
+- Trained on **1,000+ images**, achieving **Achieved high segmentation performance on turbine blade damage dataset**
 - Detects cracks and surface damage, cutting manual inspection effort by ~40%
+- reducing manual inspection effort
 - Built with: `Python` `YOLOv8` `OpenCV` `PyTorch` `Streamlit`
 
 ---
@@ -43,7 +48,7 @@ I'm a 3rd-year Computer Science student at Vardhaman College of Engineering (CGP
 ---
 
 ### 🌿 [LeafyAI](https://github.com/thanvireddy8/LeafyAI)
-> Deep learning app for plant disease detection *(in progress)*
+> AI-powered vegan nutrition assistant and meal recommendation system *(in progress)*
 
 - Built with: `Python` `TensorFlow/PyTorch` `Streamlit`
 
@@ -82,6 +87,14 @@ I'm a 3rd-year Computer Science student at Vardhaman College of Engineering (CGP
 - ☁️ AWS Academy Graduate — Cloud Foundations
 - 🤝 Volunteer — Smart India Hackathon 2024
 - 🏅 Smart Coder Certified — Smart Interviews (2026)
+
+---
+
+## 📜 Certifications
+
+- AWS Academy Cloud Foundations
+- Infosys Springboard Full Stack Virtual Internship
+- AWS AI Practitioner (Preparing)
 
 ---
 
