@@ -49,8 +49,13 @@ Final-year Computer Science student at Vardhaman College of Engineering (CGPA: 8
 
 ### 🌿 [LeafyAI](https://github.com/thanvireddy8/LeafyAI)
 > AI-powered vegan nutrition assistant and meal recommendation system *(in progress)*
-
-- Built with: `Python` `TensorFlow/PyTorch` `Streamlit`
+- Generates personalized vegan meal plans using AI
+- Recommends recipes based on dietary goals and ingredients
+- Includes nutrition analysis with calorie and protein tracking
+- Supports recipe search, filtering, and saved meal collections
+- Responsive full-stack web application with clean modern UI
+- Built REST APIs using FastAPI for recipe and user management
+- Built with: `React` `FastAPI` `MySQL` `Python` `Tailwind CSS`
 
 ---
 
