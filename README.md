@@ -1,118 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Thanvi%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+<h1 align="center">Hi, I'm Thanvi Reddy 👋</h1>
+<h3 align="center">CS Student · Full Stack Developer · AI Enthusiast</h3>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Full+Stack+Projects;Learning+AI+%26+Computer+Vision;Practicing+DSA+in+Java;Growing+Step+by+Step+for+Placements" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=thanvireddy8&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <a href="mailto:mallusrithanvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thanvireddy8"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="55%">
-
 ## 👩‍💻 About Me
 
-- 🎓 3rd Year CSE Student  
-- 💻 Full Stack Developer using **React + Spring Boot**
-- 🤖 Interested in **AI, Deep Learning & Computer Vision**
-- ☁️ Learning **Cloud Computing**
-- 🔥 Solved **300+ coding problems**
-- 🎯 Preparing for campus placements
+I'm a 3rd-year Computer Science student at Vardhaman College of Engineering (CGPA: 8.9/10), building at the intersection of **full-stack development** and **AI/computer vision**.
 
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
-
-</td>
-</tr>
-</table>
+- 🔭 Currently building: **LeafyAI** — a plant disease detection app using deep learning
+- 🏗️ Past: Built a grievance management system and a YOLOv8 blade damage detector during my Infosys internship
+- 🧠 Interests: Computer Vision, Deep Learning, REST APIs, Cloud
+- 💻 Solved **300+ problems** on CodeChef
+- 🎯 Open to: Internships, research collaborations, and freelance projects
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🌬️ [Wind Turbine Blade Damage Detection](https://github.com/thanvireddy8/wind-turbine-blade-damage-detection)
+> AI-powered structural damage detection using YOLOv8 segmentation
 
-<table>
-<tr>
-<td width="50%">
-
-<h3>🚌 Resolve-It</h3>
-
-**Smart Grievance Management System**
-
-✅ Public transport complaint system  
-✅ User/Admin dashboards  
-✅ Real-time complaint tracking  
-✅ Complaint status management  
-
-**Tech:** React, Spring Boot, MySQL, Postman
-
-</td>
-<td width="50%">
-
-<h3>🌬️ Wind Turbine Damage Detection</h3>
-
-**YOLOv8 Computer Vision Project**
-
-✅ Detects cracks and blade damage  
-✅ Trained on 1000+ images  
-✅ Around 85–90% accuracy  
-✅ Reduces manual inspection effort  
-
-**Tech:** Python, YOLOv8, OpenCV, PyTorch
-
-</td>
-</tr>
-</table>
-
-</div>
+- Trained on **1,000+ images**, achieving **85–90% detection accuracy**
+- Detects cracks and surface damage, cutting manual inspection effort by ~40%
+- Built with: `Python` `YOLOv8` `OpenCV` `PyTorch` `Streamlit`
 
 ---
 
-## 🧰 Tech Toolbox
+### 🚌 [Resolve-IT — Grievance Management System](https://github.com/thanvireddy8/Resolve-IT-Public-transport-services-Grievance-System)
+> Full-stack complaint tracking system for public transport
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,react,html,css,js,spring,git,github,postman,vscode" />
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b><br>Java · Python · SQL</td>
-<td align="center"><b>Frontend</b><br>React · HTML · CSS · JavaScript</td>
-<td align="center"><b>Backend</b><br>Spring Boot · REST APIs</td>
-</tr>
-<tr>
-<td align="center"><b>AI/ML</b><br>YOLOv8 · OpenCV · PyTorch</td>
-<td align="center"><b>Core</b><br>OOPS · DBMS · CN</td>
-<td align="center"><b>Tools</b><br>Git · Postman · VS Code</td>
-</tr>
-</table>
+- Handles **100+ complaints** with real-time status tracking
+- **10+ REST APIs** for auth, complaint handling, and feedback
+- Role-based dashboards for Users and Admins
+- Built with: `React` `Spring Boot` `MySQL` `Java` `Postman`
 
 ---
 
-## 📜 Certifications
+### 🌿 [LeafyAI](https://github.com/thanvireddy8/LeafyAI)
+> Deep learning app for plant disease detection *(in progress)*
 
-```mermaid
-mindmap
-  root((Certifications))
-    Smart Coder
-      Smart Interviews
-    DBMS
-      NPTEL
-    Java & Cloud
-      Infosys Springboard
-    Networking Basics
-      Cisco
-    AWS Cloud Foundations
+- Built with: `Python` `TensorFlow/PyTorch` `Streamlit`
+
+---
+
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanvireddy8&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanvireddy8&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanvireddy8&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 CGPA: **8.9 / 10** — Vardhaman College of Engineering
+- 💡 Solved **300+ problems** on CodeChef
+- ☁️ AWS Academy Graduate — Cloud Foundations
+- 🤝 Volunteer — Smart India Hackathon 2024
+- 🏅 Smart Coder Certified — Smart Interviews (2026)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanvireddy8&label=Profile+Views&color=blueviolet&style=flat"/>
+</p>
